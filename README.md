@@ -1,0 +1,2 @@
+# kod
+Min kodning
